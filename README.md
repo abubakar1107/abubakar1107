@@ -13,8 +13,7 @@
 
 ## 🔥 Current Work  
 🔭 **Currently Working On:**  
-- 🚗 **Transformers for 3D Object Detection in LiDAR Point Clouds**  
-- 🏞️ **Multimodal Alignment Model for LiDAR & Image Data**  
+- Testing the performances of open-source LLMs 
 
 💡 **Currently Learning:**  
 - 🧠 **Vision-Language Models & Multimodal AI**  
