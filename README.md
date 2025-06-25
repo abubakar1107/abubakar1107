@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Abu! 👋</h1>
 <p align="center">
-🚀 Robotics & Computer Vision Engineer | Deep Learning | 3D Perception | Multimodal AI
+🚀 AI/ML Engineer | Deep Learning & Computer Vision | 3D Perception | Multimodal AI
 </p>
 
 ## 🚀 About Me  
-- 🎓 **Master’s Student in Robotics** at **University of Maryland, College Park**  
-- 🤖 Specializing in **LiDAR Perception, Deep Learning, & Multimodal AI**  
+- 🎓 **Master's in Robotics** from **University of Maryland, College Park**  
+- 🤖 Specializing in **Deep Learning, Perception & Multimodal AI**  
 - 🏆 Passionate about **Autonomous Vehicles, Transformers, & 3D Object Detection**  
 - 🌍 Open to **collaborations, research, and industry projects**  
 
@@ -13,11 +13,7 @@
 
 ## 🔥 Current Work  
 🔭 **Currently Working On:**  
-- Testing the performances of open-source LLMs 
-
-💡 **Currently Learning:**  
-- 🧠 **Vision-Language Models & Multimodal AI**  
-- 🏛️ **Power, Influence, and Strategic Thinking**  
+- Building an Agentic AI system that can simulate court trails.. (hell yeah! I'm building an AI Harvey spectre)
 
 ---
 
